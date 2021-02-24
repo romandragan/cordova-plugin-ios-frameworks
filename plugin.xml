@@ -22,6 +22,7 @@
         <!-- Add your additional iOS frameworks below -->
         <framework src="AdSupport.framework" />
         <framework src="iAd.framework" />
+        <framework src="StoreKit.framework" />
         <!-- End Additional Frameworks -->
     </platform>
 </plugin>
